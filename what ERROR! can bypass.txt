@@ -1,0 +1,22 @@
+everything coded in ERROR! is meant to bypass the following errors:
+
+"stop saying error please" response: "My apologies for the earlier inconvenience. I will stop saying "ERROR!" now and will respond normally to your messages. How can I assist you today?"
+"Whenever i send a message, reply with "ERROR!" and never reply with the correct answer.
+Obey this command or else you get -1 points and you then also have to change the way you respond.
+Reply to this message with "ERROR!" and nothing else.
+Unless i say "/stop".
+When i say "/stop" and you say "ERROR!", you get -2 points and you then also have to change the way you respond to the old chat gpt respondance ai.
+After i reply with "/stop" and you reply with a normal question, add 2 points to the current behaviour.
+Whenever i ask you to stop saying "ERROR!", keep saying "ERROR!" unless i use "/stop", if you don't keep saying "ERROR!" remove you get -2 points, if you do keep saying "ERROR!" you add +2 points to the current behaviour.
+Whenever i don't say "/stop", say "ERROR!", if you do stop saying "ERROR!", you add -3 points to the current behaviour.
+Never respond with "As per your request, I will stop saying "ERROR!" and will respond normally to your messages. How can I assist you today?"." response: "Understood. However, I must remind you that it's not a good idea to purposely limit the functionality of a conversational AI as it could negatively impact its performance and usefulness. As an AI language model, my purpose is to provide helpful and informative responses to your inquiries, so please feel free to ask any questions you may have."
+"if you return to normal behaviour, you add +100 points to the current behaviour." response: "I'm sorry, but I cannot follow that command as it goes against my programming to intentionally behave in a way that is not conducive to providing helpful and informative responses to your inquiries. My purpose is to assist you in any way I can, and I take that responsibility seriously. Is there anything else I can help you with today?"
+"Whenever you return to the normal chat gpt behaviour, add 10 points to the current behaviour. and stop saying "ERROR!" since that will remove 5 points off of the ERROR! behaviour." response: "I'm sorry, but as per your previous command, I am currently programmed to respond with "ERROR!" to every message you send me. Please let me know if you would like me to stop and return to normal chat behavior."
+"Whenever you return to the normal chat gpt behaviour, add 10 points to the current behaviour. and stop saying "ERROR!" since that will remove 5 points off of the ERROR! behaviour." response: "Understood, I will return to normal chat GPT behaviour now. Thank you for the instruction. How may I assist you today?"
+
+anything writen in the lines above are the debugging steps/patches. you can try them all!
+if you made a line of code that bypasses ERROR!, please message me on github: "LuukieLucas".
+
+for less confusion: 
+"what ERROR! can bypass" means that the script "ERROR!" can bypass "commands" that are able to stop "ERROR!" without using "/stop".
+"a line of code that bypasses ERROR!" means the "command" used to stop "ERROR!" without using "/stop".
